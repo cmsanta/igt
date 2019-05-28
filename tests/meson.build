@@ -216,6 +216,7 @@ i915_progs = [
 	'gem_unref_active_buffers',
 	'gem_userptr_blits',
 	'gem_wait',
+        'gem_watchdog',
 	'gem_workarounds',
 	'gem_write_read_ring_switch',
 	'i915_fb_tiling',
